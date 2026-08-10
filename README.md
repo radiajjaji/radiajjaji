@@ -6,6 +6,24 @@ I work on research and development around atmospheric modelling,
 numerical weather prediction, data assimilation, high-performance
 computing, and AI-based weather forecasting.
 
+## Featured Research & Development
+
+### MPAS-JEDI Native-MPAS B-Matrix Workflows
+
+I have successfully developed and operationally integrated
+MPAS-JEDI/SABER background-error covariance workflows derived
+directly from native MPAS-Atmosphere forecast data.
+
+The methodology has been implemented at:
+
+- **12 km** — successfully generated and operationally used
+- **24 km** — successfully generated
+- **30 km** — successfully generated
+
+The workflow includes VBAL, HDIAGS, NICAS and BUMP localization.
+
+[View the MPAS-JEDI tools and B-matrix workflows](https://github.com/radiajjaji/mpas-jedi-tools)
+
 ## Research & Development
 
 ### MPAS / MPAS-JEDI
